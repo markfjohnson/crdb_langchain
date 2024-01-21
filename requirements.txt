@@ -1,0 +1,6 @@
+sqlalchemy
+sqlalchemy-cockroachdb
+psycopg2
+langchain
+langchain-experimental
+llama-cpp-python
